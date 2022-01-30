@@ -13,6 +13,11 @@ export const networkCollections = {
       name: "Pixel Show",
       addrs: "0xCA34404dD8Bd6537BE76F3A51B379F8949bD7973",
     },
+    {
+      image: "",
+      name: "OpenSea Collections (OPENSTORE)",
+      addrs: "0x2953399124F0cBB46d2CbACD8A89cF0599974963"
+    }
   ],
 
   "0x1": [
